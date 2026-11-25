@@ -59,6 +59,8 @@ A DHT11 or DHT22 sensor can be interfaced with a Raspberry Pi to obtain real-tim
 
 ## 6. EXPECTED OUTPUT
 
+<img width="2076" height="2152" alt="Screenshot_20261125_092405" src="https://github.com/user-attachments/assets/836a1675-2e2c-4d11-80fe-b8be02b520d0" />
+
 ## 7. APPLICATION FEATURES
 - User-friendly Android interface.
 - Displays temperature and humidity readings.
